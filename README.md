@@ -64,7 +64,7 @@ npm install
 You need to run two servers:
 1. Start the API Server (port 4000)
    node index.js
-2. 2. Start the Frontend Server (port 3000)
+2. Start the Frontend Server (port 3000)
   In another terminal:
   node server.js
 
